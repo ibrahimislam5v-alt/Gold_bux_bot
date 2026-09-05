@@ -38,7 +38,7 @@ CHANNEL_LINK = "https://t.me/TasklyEarn_Official"
 GROUP_LINK = "https://t.me/Online_Earning_BD_All"
 
 # Auto Poster Groups - /addgroup diye add korba
-GROUPS = []A
+GROUPS = []
 
 PROMO = """🔥 Gold Bux Bot - 1 Task = $0.05 🔥
 
